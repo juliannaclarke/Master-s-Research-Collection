@@ -26,3 +26,13 @@ Russell, Glitch Manifesto
 me, on how birds connect me to the present in place and time
 
 > Do you believe in magic?
+
+
+## Things I want to explore
+[Altantics (film)](https://en.wikipedia.org/wiki/Atlantics)
+
+[Alexia's research on e-textiles for games](https://head.hesge.ch/publication/habiller-jeu-jouer-vetement)
+
+[Fashion narratives](https://fashionnarratives.ch/)
+
+- keep reading!
