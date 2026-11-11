@@ -33,9 +33,16 @@ Where is there already magic in public transportation?
 
 ## MYSTERY
 
-![strange bus message](/img/seeing_is_believing.jpg)
+- transient spaces
+- liminal
+![night bus](/img/the_night_bus.jpg)
 
 - where are people going?
 - who are they?
+![ironing board](/img/past_midnight_in_Whitechapel.jpg)
+![ghosts](/img/Theofanis-Sofianides-Public-Transport.jpg)
+
 - is the bus alive?
 - bus has feelings?? ?
+
+![strange bus message](/img/seeing_is_believing.jpg)
