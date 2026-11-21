@@ -32,9 +32,7 @@ Essentially, the idea of homophily as being present in our society is a construc
 - I'm often seeing content which is reinforcing the gender binary, which is another construction related to homophily. I'm thinking about how our most divisive interests are the ones that are valuable to the constructors of new media. If race and gender are the only absolutes of status homophily, how can we hope to close gender gaps and challenge our conception of the gender binary?
 - (Not sure if this is a different question than the previous) If the basis of new media, machine learning and social media algorithms is division, can we hope for this narrative to be rewritten? 
 - What hope exists for those that don't lie neatly into boxes?
-
 - Knowing that innovation in new media has often been gendered, the very structure of the internet as we know it was made to look at women. This model, of the looker and the observed. Usage of the modern internet has not broken free from this model, whether it is known to us or not. Beyond sewing division, it has reinforced the power dynamics of the looker, and the observed. What role does this model, of the looker and the observed, play in our use of new media?
-
 - If the growth of software and these homophilic algorithms are rooted in the bias of the US, what does it mean for other societies when their models of operation do not align with the models being fed to them by the US algorithms?
 
 ## PROGRAMMED VISIONS
