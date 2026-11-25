@@ -20,16 +20,6 @@ Where is there already magic in public transportation?
 - playing the same mini games
 - waving down the bus driver
 
-## PUBLIC TRANSIT AS DESIGNED SPACES
-
-- bus and train interiors (swatches)
-- liveries
-- route maps (style, colour)
-- scheduling
-- NSAS
-- heading sign (luminator screens)
-- ads
-- weekly mini-games (tpg, guess the location, guess the word)
 
 ## MYSTERY
 
